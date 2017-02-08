@@ -7,6 +7,8 @@
 
     <!-- versionCode is optional and Android only -->
 
+<access origin="*" />
+          
     <name>Kiryana.pk</name>
 
     <description>
