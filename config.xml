@@ -9,6 +9,7 @@
 
           
     <access origin="https://kiryana.pk" subdomains="true" />
+    <allow-navigation href="https://m.kiryana.pk/*" />      
           
     <name>Kiryana.pk</name>
 
